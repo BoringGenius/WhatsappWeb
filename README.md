@@ -7,5 +7,5 @@ Download/Clone the repository.
 
 Then install it using 
 
-> $ sudo apt install ./(package_name).deb
+> $ sudo apt install ./whatsapp-webaapp_1.0_all.deb
 

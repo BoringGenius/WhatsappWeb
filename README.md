@@ -7,5 +7,5 @@ Download/Clone the repository.
 
 Then install it using 
 
-$ sudo apt install ./(package_name).deb
+> $ sudo apt install ./(package_name).deb
 

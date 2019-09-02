@@ -1,2 +1,11 @@
-# WhatsappWeb
-This contains .deb file needed to install whatsapp application in ubuntu systems
+# WhatsappWebClient
+
+
+In order to install Whatsapp web client in Your Debian/Ubuntu based systems,
+
+Download/Clone the repository.
+
+Then install it using 
+
+$ sudo apt install ./(package_name).deb
+
